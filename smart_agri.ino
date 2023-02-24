@@ -28,7 +28,7 @@ WiFiClientSecure net = WiFiClientSecure();
 MQTTClient client = MQTTClient(256);
 
 // Initialize Telegram BOT
-#define BOTtoken "5732441007:AAGPh_2H9K4OF-gjZITt665iHwO3LsOBitw"
+#define BOTtoken "xxxxxxxxxxxxxxxxxx"
 //Telegram WiFi client
 WiFiClientSecure client1;
 // Initialize Telegram BOT
